@@ -1,0 +1,9 @@
+.planets {
+  margin: auto;
+  padding-top: 20px;
+  padding-left: 30px;
+  margin-block: 20;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+}
